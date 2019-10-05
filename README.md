@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-implentation of famous game of(cross and zero) tic tac toe
+implementation of famous game of(cross and zero) Tic Tac Toe in java using swing and awt
